@@ -1,0 +1,3 @@
+import "./js/index.js";
+
+
